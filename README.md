@@ -105,7 +105,7 @@ Apresenta os principais indicadores do marketplace e a evolução da receita ao 
 * Avaliação média
 * Evolução das vendas
 
-### 🛍️ Vendas e Produtos
+### Vendas e Produtos
 
 Analisa o desempenho comercial e a distribuição das vendas:
 
@@ -114,7 +114,7 @@ Analisa o desempenho comercial e a distribuição das vendas:
 * Distribuição geográfica
 * Desempenho das vendas
 
-### 🚚 Operação e Entrega
+### Operação e Entrega
 
 Foco na eficiência logística e na experiência do cliente:
 
@@ -128,14 +128,10 @@ Foco na eficiência logística e na experiência do cliente:
 
 ## 📸 Dashboard
 
-> *Adicione aqui as imagens ou GIFs das páginas do dashboard.*
+![1ª página do dashboard](assets/VisãoGeral.png)
+![2ª página do dashboard](assets/VendasProdutos.png)
+![3ª página do dashboard](assets/OperaçãoEntrega.png)
 
-```text
-assets/
-├── dashboard_visao_geral.png
-├── dashboard_vendas.png
-└── dashboard_operacao.png
-```
 
 ## Principais perguntas de negócio
 
